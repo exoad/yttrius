@@ -16,19 +16,22 @@ For now ;D
 
 ## Commands
 
-**Table of Contents: Commands**
+___
 
-[Info Commands](https://github.com/exoad/yttriuswiki/blob/main/README.md#-info-commands)
-
-[Fun Commands](https://github.com/exoad/yttriuswiki/blob/main/README.md#-fun-commands)
-
-[Moderation Commands](https://github.com/exoad/yttriuswiki/blob/main/README.md#-moderation-commands)
-
-[Images & Media](https://github.com/exoad/yttriuswiki/blob/main/README.md#-images--media)
-
-[Minecraft Commands](https://github.com/exoad/yttriuswiki/blob/main/README.md#-minecraft-commands)
-
-[Other Commands](https://github.com/exoad/yttriuswiki/blob/main/README.md#-other-commands)
+> **Table of Contents: Commands**
+> 
+> [Info Commands](https://github.com/exoad/yttriuswiki/blob/main/README.md#-info-commands)
+> 
+> [Fun Commands](https://github.com/exoad/yttriuswiki/blob/main/README.md#-fun-commands)
+> 
+> [Moderation Commands](https://github.com/exoad/yttriuswiki/blob/main/README.md#-moderation-commands)
+> 
+> [Images & Media](https://github.com/exoad/yttriuswiki/blob/main/README.md#-images--media)
+> 
+> [Minecraft Commands](https://github.com/exoad/yttriuswiki/blob/main/README.md#-minecraft-commands)
+> 
+> [Other Commands](https://github.com/exoad/yttriuswiki/blob/main/README.md#-other-commands)
+___
 
 **What is this?**
 

@@ -18,17 +18,17 @@ For now ;D
 
 **Table of Contents: Commands**
 
-[Info Commands](####❓ Info Commands)
+[Info Commands](https://github.com/exoad/yttriuswiki/blob/main/README.md#-info-commands)
 
-[Fun Commands](####🎮 Fun Commands)
+[Fun Commands](https://github.com/exoad/yttriuswiki/blob/main/README.md#-fun-commands)
 
-[Moderation Commands](####🔨 Moderation Commands)
+[Moderation Commands](https://github.com/exoad/yttriuswiki/blob/main/README.md#-moderation-commands)
 
-[Images & Media](####🌐 Images & Media)
+[Images & Media](https://github.com/exoad/yttriuswiki/blob/main/README.md#-images--media)
 
-[Minecraft Commands](####🌲 Minecraft Commands)
+[Minecraft Commands](https://github.com/exoad/yttriuswiki/blob/main/README.md#-minecraft-commands)
 
-[Other Commands](####🍵 Other Commands)
+[Other Commands](https://github.com/exoad/yttriuswiki/blob/main/README.md#-other-commands)
 
 **What is this?**
 

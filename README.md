@@ -17,12 +17,18 @@ For now ;D
 ## Commands
 
 **Table of Contents: Commands**
-[Info Commands](#❓ Info Commands)
-[Fun Commands](#🎮 Fun Commands)
-[Moderation Commands](#🔨 Moderation Commands)
-[Images & Media](#🌐 Images & Media)
-[Minecraft Commands](#🌲 Minecraft Commands)
-[Other Commands](#🍵 Other Commands)
+
+[Info Commands](####❓ Info Commands)
+
+[Fun Commands](####🎮 Fun Commands)
+
+[Moderation Commands](####🔨 Moderation Commands)
+
+[Images & Media](####🌐 Images & Media)
+
+[Minecraft Commands](####🌲 Minecraft Commands)
+
+[Other Commands](####🍵 Other Commands)
 
 **What is this?**
 

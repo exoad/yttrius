@@ -375,6 +375,12 @@ Usage: `>>urban {message}`
 
 ___
 
+`nasa` - Get scientific fact from nasa! (Daily)
+
+Usage: `>>nasa`
+
+___
+
 `covid` - Get information on COVID-19
 
 **Options for tag {arg}**

@@ -1,4 +1,4 @@
-# ☕ Yttrius
+# 🍵 Yttrius
 Hello user! Welcome to the Yttrius Discord bot webpage that can get you understanding the bot in no time.
 
 [Project Site](http://exoad.github.io/yttrius)
